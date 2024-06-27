@@ -130,3 +130,6 @@ $RECYCLE.BIN/
 
 # Air folder
 tmp
+
+# ENV file
+.env
